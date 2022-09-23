@@ -1,0 +1,4 @@
+node_modules
+dist
+time.txt
+*.csv
